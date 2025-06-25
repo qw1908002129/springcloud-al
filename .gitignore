@@ -73,3 +73,9 @@ Desktop.ini
 
 # Others
 *.swp
+
+target/
+*.class
+*.jar
+*.war
+*.log
